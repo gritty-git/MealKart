@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MealKart/static/css/main.6581266f.chunk.css",
+    "main.js": "/MealKart/static/js/main.057434c8.chunk.js",
+    "main.js.map": "/MealKart/static/js/main.057434c8.chunk.js.map",
+    "runtime-main.js": "/MealKart/static/js/runtime-main.92e19e1c.js",
+    "runtime-main.js.map": "/MealKart/static/js/runtime-main.92e19e1c.js.map",
+    "static/js/2.e6918496.chunk.js": "/MealKart/static/js/2.e6918496.chunk.js",
+    "static/js/2.e6918496.chunk.js.map": "/MealKart/static/js/2.e6918496.chunk.js.map",
+    "index.html": "/MealKart/index.html",
+    "static/css/main.6581266f.chunk.css.map": "/MealKart/static/css/main.6581266f.chunk.css.map",
+    "static/js/2.e6918496.chunk.js.LICENSE.txt": "/MealKart/static/js/2.e6918496.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/MealKart/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92e19e1c.js",
+    "static/js/2.e6918496.chunk.js",
+    "static/css/main.6581266f.chunk.css",
+    "static/js/main.057434c8.chunk.js"
+  ]
+}
